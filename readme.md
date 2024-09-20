@@ -3,6 +3,8 @@
 ## Mi a css?
 ### 
 ## Hogyan tudunk beágyazni egy css-t egy html fájlba?
+## Kockáztatjuk Janci jóllétét.
+##
 ###
 ## Hogyan tudunk css stílust definiálni egyszerre több elemre? A következő kódrészletet hogyan egészítenéd ki, hogy minden elemnek legyen egy saját piros szaggatott kerete, és zöld háttérszíne? 
 ```html 
